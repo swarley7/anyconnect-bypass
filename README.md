@@ -51,3 +51,12 @@ On your linux / mac host (or Windows, if you're so inclined), launch OpenConnect
     	Remote Server address host:port
   -s	Create a TLS Proxy
 ~~~
+
+# Attribution
+This code was heavily adapted from the fantastic `hostscan_bypass` package: https://gilks.github.io/post/cisco-hostscan-bypass/
+
+We recommend having a look at hostscan-bypass if you need to bypass posture checking on AnyConnect services.
+
+Clinton Carpene
+Peter Hannay
+
