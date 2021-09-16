@@ -57,6 +57,6 @@ This code was heavily adapted from the fantastic `hostscan_bypass` package: http
 
 We recommend having a look at hostscan-bypass if you need to bypass posture checking on AnyConnect services.
 
-Clinton Carpene
-Peter Hannay
+* Clinton Carpene (https://github.com/swarley7)
+* Peter Hannay (https://github.com/kronicd)
 
